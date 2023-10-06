@@ -8,6 +8,7 @@ int main(){
 
     // in array indexing starts from 0;
 
+    
     // print five int in reverse order.
 
     int a,b,c,d,e;
